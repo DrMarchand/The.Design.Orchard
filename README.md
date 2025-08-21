@@ -1,2 +1,2 @@
-# The.Design.Orchard
+Design Orchard
 Global
