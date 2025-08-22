@@ -1,0 +1,48 @@
+- **Token schema (linkage):** see `docs/tokens.md` (⚛︎ color, ⌬ spacing, ∿ motion).  
+- **Security:** sign zips; store checksums; restrict write; audit logs 👁️.
+
+⸻
+
+## 🧰 𝑪𝒐𝒅𝒆 𝒐𝒇 𝑪𝒓𝒂𝒇𝒕 (𝔇𝔒𝔇)
+**A piece is “Done” when:**  
+- [ ] ✠ Meets brief & constraints  
+- [ ] 𓁹 AA contrast (or documented exception)  
+- [ ] ⌬ Componentized; tokens applied  
+- [ ] 🔤 Fonts licensed & embedded correctly  
+- [ ] 🧪 Proofed on targets (retina, print stock, dark mode)  
+- [ ] 🔐 Hashed & packaged with changelog
+
+⸻
+
+## 🗺 𝑴𝒂𝒑𝒑𝒊𝒏𝒈 (𝔈𝔱𝔥𝔬𝔰 → 𝔒𝔭𝔰)
+- **Roots** 🜔 → standards.md  
+- **Trunk** ☯︎ → MAIN.md (this file)  
+- **Branches** ⌘ → source/*  
+- **Fruit** ✧ → deliverables/*  
+- **Trellis** ⌬ → tokens.md • folder rules
+
+⸻
+
+## 🤝 𝑪𝒐𝒎𝒎𝒆𝒓𝒄𝒆 & 𝑯𝒂𝒏𝒅𝒐𝒇𝒇
+- **Descriptor:** KEJ Studios (payments/descriptor)  
+- **Hand-off kit:** source files + exports + README + license + checksum  
+- **Permissions:** role-based write; PRs required; design reviews logged.
+
+⸻
+
+## 🦇 𝑷𝒓𝒐𝒕𝒆𝒄𝒕𝒊𝒐𝒏 (𝔅𝔞𝔱𝔪𝔞𝔫 𝔓𝔯𝔬𝔱𝔬𝔠𝔬𝔩)
+- Reference: `../The.Creative.Guild/protocols/BATMAN-PROTOCOL.md`  
+- Use glyph seals 🪬 on approved releases; log sign-offs 👁️.  
+- Justice loop: **report → review → resolve → record** ♻︎.
+
+⸻
+
+## 🧪 𝑺𝒆𝒆𝒅 𝑩𝒆𝒅 (𝔅𝔢𝔱𝔞 𝔍𝔬𝔫𝔢𝔰)
+- Prototypes live under `source/_labs/` → clearly labeled **EXPERIMENTAL**.  
+- Merge to main only after ✠ DOD passes and 🧪 checks complete.
+
+⸻
+
+## 🪬 𝑺𝒆𝒂𝒍
+“Design is agriculture for meaning. We plant with intention, prune with mercy, and harvest with integrity.”  
+♾︎ ⌬ ✠ ☯︎
