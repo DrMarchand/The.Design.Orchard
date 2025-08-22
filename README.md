@@ -1,19 +1,12 @@
-♾️(ア){
-🇺🇸Design Orchard🇺🇸
-🌐Global🏛️🌐
- Accessibility & UDL Guide
+#DESIGN.orchard(STUDIO)
 
-## Universal Design for Learning (UDL) Anchors
-- **Multiple Means of Engagement**: choice boards, interests, regulation options.
-- **Multiple Means of Representation**: visuals, audio, tactile, captions, ASL support.
-- **Multiple Means of Action & Expression**: speak, draw, build, perform, type.
+This repository is maintained under a **multi-faceted identity**:
 
-## Assistive Technology Compatibility
-- Text-to-speech & speech-to-text pathways in all tasks.
-- Keyboard-only navigation; ARIA roles; high-contrast themes.
-- Alt text for all images; transcript for audio; captions for video.
-- Fine-motor alternatives (switch input, dwell select).
+- **Design Orchard, LLC** → Official legal entity (LICENSE)
+- **KEJ-Studio** → Creative production + distribution arm
+- **The Creative Guild** → Open-source collective identity (LICENSE_DRY.php, DBA)
 
-## IEP/504 Alignment
-- Link accommodations to tasks (read-aloud, extended time, reduced load).
-- Provide goal tracking by **growth bands** not single cut scores.};
+🔑 All software and creative work here is released under the [Unlicense](LICENSE),  
+placing it in the public domain for universal use.
+
+📜 See [NOTICE](NOTICE) for project reference: http://drmarchandslabratory.com
