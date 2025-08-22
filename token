@@ -1,4 +1,4 @@
-- **Token schema (linkage):** see `docs/tokens.md` (⚛︎ color, ⌬ spacing, ∿ motion).  
+- **schema:- **Token: 0346(🔗):** see `docs/tokens.md` (⚛︎ color, ⌬ spacing, ∿ motion).  
 - **Security:** sign zips; store checksums; restrict write; audit logs 👁️.
 
 ⸻
