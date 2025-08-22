@@ -1,0 +1,50 @@
+# 🪴 𝑴𝑨𝑰𝑵 — 𝔇𝔢𝔰𝔦𝔤𝔫 𝔒𝔯𝔠𝔥𝔞𝔯𝔡
+
+**Sigil:** 🍏🌳🪬  
+**Motto:** “From root to fruit, craft bears truth.” ✠  
+**Allies:** 🛠️ KEJ Studios • 🏛️ The Creative Guild • ⚖️ Batman Protocol
+
+⸻
+
+## 🌱 𝑹𝒐𝒐𝒕𝒔 (𝕻𝖗𝖎𝖓𝖈𝖎𝖕𝖑𝖊𝖘)
+- 🜔 **Craft-as-Truth** — quality > hype.  
+- ☯︎ **Balance** — form ⚖️ function; beauty ⚖️ clarity.  
+- 🜍 **Stewardship** — protect assets, timelines, and people.  
+- 𐌠→∞ **Iteration** — small, steady, compounding upgrades.
+
+⸻
+
+## 🌳 𝑻𝒓𝒖𝒏𝒌 (𝔉𝔩𝔬𝔴)
+**Brief → Design → Review → Ship → Archive**
+
+- 🧾 **Brief**: 🎯 Goal • 👥 Audience • 📦 Scope • ⏱ Deadline  
+- 🎨 **Design**: ⌬ Components • ⌘ Grids • ∿ Rhythm • ✧ Polish  
+- 🔍 **Review**: ✠ Standards • 𓁹 Accessibility • 🧪 Proofs  
+- 📦 **Ship**: 🔐 Hash • 🗂️ Package • 🧾 Changelog  
+- 📚 **Archive**: 🗃 Versioned • 🏷️ Tagged • 🪬 Sealed
+
+Flow Sigil: `🧾 → 🎨 → 🔍 → 📦 → 📚`
+
+⸻
+
+## 🌿 𝑩𝒓𝒂𝒏𝒄𝒉𝒆𝒔 (𝔇𝔬𝔪𝔞𝔦𝔫𝔰)
+- 🖋 **Brand** → logomarks ⌘, palettes ⌬, type sigils 𝔉.  
+- 🖥 **UI/UX** → wireframes ☐, prototypes ◎, tokens 🜂/🜄/🜁/🜃.  
+- 🎞 **Motion** → keyframes ✺, easing ∿, exports 🎬.  
+- 🖨 **Print** → CMYK ♻︎, bleeds ▣, dielines ✠.  
+- 🧊 **3D** → meshes ◼, UV ⌗, renders ✧.  
+- 🎵 **Audio** → stems ♪, bounces ♩, mastering ✶.
+
+⸻
+
+## 🍎 𝑭𝒓𝒖𝒊𝒕 (𝔇𝔢𝔩𝔦𝔳𝔢𝔯𝔞𝔟𝔩𝔢𝔰)
+- **Packages:** `/deliverables/{project}/{version}/`  
+- **SemVer for design:** `MAJOR.MINOR.PATCH` → `style-breaking.feature.fix`  
+- **Asset hash:** `SHA256` → verify integrity 🔒  
+- **Naming:** `DO-{proj}-{artifact}-{size/color}-{ver}`  
+  - Example: `DO-Atlas-Logo-Primary-RGB@2x-1.2.0`
+
+⸻
+
+## 🪵 𝑻𝒓𝒆𝒍𝒍𝒊𝒔 (𝕴𝖓𝖋𝖗𝖆)
+- **Folders**
