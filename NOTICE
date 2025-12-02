@@ -1,20 +1,33 @@
+# Path for the NOTICE file
 notice_design_orchard_path = "/mnt/data/NOTICE_DesignOrchard"
 
+# Updated NOTICE text
 notice_design_orchard_text = """NOTICE
 ------
 
-Design Orchard, LLC
+🌴 Design Orchard LLC
 
-This repository is maintained under the Design Orchard, LLC entity,
-in collaboration with KEJ-Studio and The Creative Guild.
+This repository is maintained under the sovereign entity Design Orchard LLC,
+in collaboration with:
 
-Website: http://drmarchandslabratory.com
+- 🔬 Dr. Marchand’s ⚛︎ Laboratory™ (Experimental R&D & core cognition systems)
+- KEJ-Studio (Creative production & distribution arm)
+- The Creative Guild (Open-source collective identity, LICENSE_DRY.php)
 
-This project is released into the public domain under the Unlicense.
-See LICENSE for full details.
+Website: http://drmarchandslab.com
+
+⚙️ NƐURO-FORGE ENGINE™ powers outputs and pipelines associated with this project.
+
+🔑 Licensing:
+All software and creative work is released under the Unlicense,
+placing it into the public domain for universal use. See LICENSE for full details.
+
+Version: 2025 – Orchard & Lab integration
 """
 
+# Write the NOTICE file
 with open(notice_design_orchard_path, "w") as f:
     f.write(notice_design_orchard_text)
 
+# Confirm path
 notice_design_orchard_path
