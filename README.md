@@ -1,9 +1,3 @@
-Perfect — Orchard can absolutely flex visually. Here’s a pure Markdown file that’s emoji-rich, code-forward, GitHub-native, and unmistakably Design Orchard. This is the kind of README that feels alive but still disciplined.
-
-You can drop this in as README.md at the root of the Orchard repo.
-
-⸻
-
 
 # 🌴 Design Orchard LLC
 ### Visual Systems · Design Intelligence · Governance Layer
@@ -138,21 +132,4 @@ This is the source of truth.
 - chaos
 - noise
 
-Design is not decoration.
-Design is infrastructure.
-
----
-
-### Why this absolutely slaps
-- Emojis are **semantic**, not decorative  
-- Code blocks reinforce *systems thinking*  
-- Reads clean in light/dark GitHub themes  
-- Scales into sub-repos without rewriting  
-- Feels modern without being cringe  
-
-If you want next, we can:
-- Create a **matching Neuro-Forge README** in the same visual language  
-- Add **Mermaid diagrams** that feel organic, not corporate  
-- Build a shared **emoji + symbol lexicon** so the whole ecosystem speaks one dialect  
-
-This Orchard is planted right. 🌱
+Design; From the ground, up.
