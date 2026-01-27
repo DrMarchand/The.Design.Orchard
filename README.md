@@ -1,135 +1,122 @@
+⸻
 
-# 🌴 Design Orchard LLC
-### Visual Systems · Design Intelligence · Governance Layer
 
-> **Status:** Active  
-> **Framework Alignment:** ∞ OS™ · U.N.I. · Nɛuro-Forge™  
-> **Authority:** Design Orchard LLC © 2026  
+# 🌴 DESIGN ORCHARD LLC
+## PROFESSIONAL DESIGN & PUBLISHING ENTITY
 
----
-
-## 🌱 What Is Design Orchard?
-
-**Design Orchard LLC** is a professional design and systems entity focused on the cultivation of
-**coherent visual architectures**.
-
-This is not a portfolio.  
-This is not open source.  
-This is not education.
-
-This is a **publishing and governance layer** for design intelligence.
+**Entity:** Design Orchard LLC  
+**Status:** Active  
+**Jurisdiction:** United States  
+**Operational Classification:** Professional Services  
 
 ---
 
-## 🧬 Lineage
+## 1. STATEMENT OF OPERATION
+
+Design Orchard LLC operates as a professional entity engaged in the development,
+documentation, and publication of design systems and visual frameworks.
+
+This repository functions as a **public operational record** demonstrating:
+- continuity of business activity
+- defined scope of services
+- documented professional practice
+
+No personal records, sensitive data, or regulated information are stored in this repository.
+
+---
+
+## 2. SCOPE OF SERVICES
+
+Design Orchard LLC provides the following services:
+
+- Design system development  
+- Visual architecture and layout frameworks  
+- Documentation and publication of design methodologies  
+
+Design Orchard LLC does **not** provide:
+- medical services
+- engineering services
+- architectural services
+- licensed trade execution
+
+All engagements are limited to professional design and consulting services.
+
+---
+
+## 3. PROFESSIONAL BOUNDARIES
+
+Design Orchard LLC operates within clearly defined boundaries.
+
+- Guidance is provided as professional consulting only  
+- Final decisions remain the responsibility of the client  
+- Work outside verified scope is not undertaken  
+
+This boundary structure is maintained to ensure safety, accuracy, and contractual clarity.
+
+---
+
+## 4. OPERATIONAL CONTINUITY
 
 ```txt
-🔬 DrMarchand’s Laboratory ©
-        ↓
-⚙︎ Nɛuro-Forge Engine™
-        ↓
-♾️ Infinity OS™
-        ↓
-🌴 Design Orchard LLC
+• Documented methodologies
+• Versioned records
+• Controlled publication
+• Long-term maintenance
 
-Every artifact has origin.
-Every system has memory.
+This repository exists to demonstrate ongoing operational presence and continuity.
 
 ⸻
 
-🧠 Operating Philosophy
+5. REPOSITORY FUNCTION
 
-const DESIGN_ORCHARD = {
-  principle: "structure before aesthetics",
-  method: "traceable systems",
-  format: ["markdown", "plain-text", "open-standards"],
-  lifecycle: "long-term",
-  noise: false
-}
+/docs          # authoritative documentation
+/frameworks    # published design systems
+/architecture  # structural references
+/assets        # controlled materials
 
-Beauty emerges from constraint.
-Order outlives trends.
+All materials are maintained as records of professional output.
 
 ⸻
 
-🏗️ Entity Structure
+6. LICENSING
 
-DesignOrchardLLC:
-  role: Publisher & IP Holder
-  governs:
-    - frameworks
-    - documentation
-    - commercial deployments
-
-DrMarchandsLaboratory:
-  role: Research & Validation
-  handles:
-    - system logic
-    - integrity checks
-    - experimental synthesis
-
-KEJStudio:
-  role: Creative Production
-  outputs:
-    - branding systems
-    - UI/UX layouts
-    - visual assets
-
-No overlap.
-No ambiguity.
-
-⸻
-
-📦 Repository Scope
-
-/architecture   # system diagrams & structure
-/frameworks     # published methodologies
-/docs           # canonical documentation
-/assets         # controlled visual materials
-
-Everything here is intentional.
-Nothing here is casual.
-
-⸻
-
-🔐 Licensing
-
-PROPRIETARY FRAMEWORK
+PROPRIETARY MATERIAL
 ALL RIGHTS RESERVED
 
-© 2026 Design Orchard LLC
+© Design Orchard LLC
 
-Reuse requires permission.
-Forking implies nothing.
+No rights are granted by publication.
 
 ⸻
 
-™ Trademark Notice
+7. TRADEMARK NOTICE
 
 Design Orchard™
-DrMarchand™
-KEJ Studio™
-∞ OS™
-Nɛuro-Forge™
 
-All marks are owned by Design Orchard LLC.
-Use without endorsement is coincidence, not consent.
+All names and visual marks are the property of Design Orchard LLC.
+Use does not imply endorsement.
 
 ⸻
 
-📜 Canonical Reference
+8. CANONICAL NOTICE
 
 https://drmarchandslaboratory.com/NOTICE
 
-This is the source of truth.
+This repository reflects the current operational state of Design Orchard LLC.
 
 ⸻
 
-🌴 Closing State
+9. DECLARATION
 
-+ calm systems
-+ readable futures
-- chaos
-- noise
+This repository is maintained as evidence of:
+	•	professional intent
+	•	operational discipline
+	•	business continuity
 
-Design; From the ground, up.
+Design Orchard LLC maintains this repository as part of its standard business practice.
+
+---
+
+Design; From the Ground, Up.
+JK Marchand
+kyle@drmarchandslab.com
