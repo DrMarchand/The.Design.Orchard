@@ -3,7 +3,7 @@
 
 **Entity:** Design Orchard LLC  
 **Status:** Active  
-**Jurisdiction:** United States  
+**Jurisdiction:** 🌎{FL.|🇺🇸}  
 **Operational Classification:** Professional Services  
 
 ---
@@ -26,8 +26,10 @@ No personal records, sensitive data, or regulated information are stored in this
 
 Design Orchard LLC provides the following services:  
 - Design system development  
-- Visual architecture and layout frameworks  
+- Visual design and visual architecture frameworks  
 - Documentation and publication of design methodologies  
+- Print design, layout, and production guidance  
+- Carpentry, fabrication, and dimensional design consultation  
 
 Design Orchard LLC does **not** provide:  
 - Medical services  
@@ -76,14 +78,14 @@ All materials are maintained as records of professional output.
 6. LICENSING
 
 Core Operational Materials (Software, Lab Frameworks, Internal Systems):
-	•	Proprietary — all rights reserved.
-	•	Owned and maintained by Design Orchard LLC.
+	•	Proprietary — all rights reserved
+	•	Owned and maintained by Design Orchard LLC
 
 Creative Outputs & Artwork (Visuals, Publications, Open Materials):
-	•	Released for free use, adaptation, and redistribution.
-	•	Users are encouraged to copy, modify, and share these works.
-	•	Attribution is optional but appreciated.
-	•	No license fees or permissions are required.
+	•	Released for free use, adaptation, and redistribution
+	•	Users are encouraged to copy, modify, and share these works
+	•	Attribution is optional but appreciated
+	•	No license fees or permissions are required
 
 This structure ensures freedom for the community while protecting core intellectual property and operational infrastructure.
 
@@ -122,5 +124,3 @@ while empowering others to freely engage with, use, and remix its creative outpu
 🌱 Design; From the Ground, Up.
 JK Marchand
 kyle@drmarchandslab.com
-
----
