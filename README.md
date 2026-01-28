@@ -1,6 +1,3 @@
-⸻
-
-
 # 🌴 DESIGN ORCHARD LLC
 ## PROFESSIONAL DESIGN & PUBLISHING ENTITY
 
@@ -13,13 +10,13 @@
 
 ## 1. STATEMENT OF OPERATION
 
-Design Orchard LLC operates as a professional entity engaged in the development,
-documentation, and publication of design systems and visual frameworks.
+Design Orchard LLC operates as a professional entity engaged in the development,  
+documentation, and publication of design systems, visual frameworks, and creative works.
 
-This repository functions as a **public operational record** demonstrating:
-- continuity of business activity
-- defined scope of services
-- documented professional practice
+This repository functions as a **public operational record** demonstrating:  
+- Continuity of business activity  
+- Defined scope of services  
+- Documented professional practice  
 
 No personal records, sensitive data, or regulated information are stored in this repository.
 
@@ -27,17 +24,16 @@ No personal records, sensitive data, or regulated information are stored in this
 
 ## 2. SCOPE OF SERVICES
 
-Design Orchard LLC provides the following services:
-
+Design Orchard LLC provides the following services:  
 - Design system development  
 - Visual architecture and layout frameworks  
 - Documentation and publication of design methodologies  
 
-Design Orchard LLC does **not** provide:
-- medical services
-- engineering services
-- architectural services
-- licensed trade execution
+Design Orchard LLC does **not** provide:  
+- Medical services  
+- Engineering services  
+- Architectural services  
+- Licensed trade execution  
 
 All engagements are limited to professional design and consulting services.
 
@@ -45,13 +41,12 @@ All engagements are limited to professional design and consulting services.
 
 ## 3. PROFESSIONAL BOUNDARIES
 
-Design Orchard LLC operates within clearly defined boundaries.
-
+Design Orchard LLC operates within clearly defined boundaries:  
 - Guidance is provided as professional consulting only  
 - Final decisions remain the responsibility of the client  
 - Work outside verified scope is not undertaken  
 
-This boundary structure is maintained to ensure safety, accuracy, and contractual clarity.
+This ensures safety, accuracy, and contractual clarity.
 
 ---
 
@@ -80,12 +75,17 @@ All materials are maintained as records of professional output.
 
 6. LICENSING
 
-PROPRIETARY MATERIAL
-ALL RIGHTS RESERVED
+Core Operational Materials (Software, Lab Frameworks, Internal Systems):
+	•	Proprietary — all rights reserved.
+	•	Owned and maintained by Design Orchard LLC.
 
-© Design Orchard LLC
+Creative Outputs & Artwork (Visuals, Publications, Open Materials):
+	•	Released for free use, adaptation, and redistribution.
+	•	Users are encouraged to copy, modify, and share these works.
+	•	Attribution is optional but appreciated.
+	•	No license fees or permissions are required.
 
-No rights are granted by publication.
+This structure ensures freedom for the community while protecting core intellectual property and operational infrastructure.
 
 ⸻
 
@@ -93,30 +93,34 @@ No rights are granted by publication.
 
 Design Orchard™
 
-All names and visual marks are the property of Design Orchard LLC.
-Use does not imply endorsement.
+All names, logos, and visual marks are the property of Design Orchard LLC.
+Use of these marks does not imply endorsement.
 
 ⸻
 
 8. CANONICAL NOTICE
 
+For official ownership, licensing, and operational details, see:
 https://drmarchandslaboratory.com/NOTICE
 
-This repository reflects the current operational state of Design Orchard LLC.
+This repository reflects the current operational state of Design Orchard LLC, including the Lab’s outputs and its autonomous Library bioproduct.
 
 ⸻
 
 9. DECLARATION
 
 This repository is maintained as evidence of:
-	•	professional intent
-	•	operational discipline
-	•	business continuity
+	•	Professional intent
+	•	Operational discipline
+	•	Business continuity
 
-Design Orchard LLC maintains this repository as part of its standard business practice.
+Design Orchard LLC maintains this repository as part of standard business practice,
+while empowering others to freely engage with, use, and remix its creative outputs.
 
----
+⸻
 
-Design; From the Ground, Up.
+🌱 Design; From the Ground, Up.
 JK Marchand
 kyle@drmarchandslab.com
+
+---
