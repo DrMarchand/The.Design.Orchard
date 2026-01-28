@@ -1,4 +1,4 @@
-# 🌴 DESIGN ORCHARD LLC
+# 🌴 DESIGN ORCHARD LLC ©
 ## PROFESSIONAL DESIGN & PUBLISHING ENTITY
 
 **Entity:** Design Orchard LLC  
