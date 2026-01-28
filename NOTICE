@@ -1,28 +1,30 @@
-# Path for the NOTICE file
-notice_design_orchard_path = "/mnt/data/NOTICE_DesignOrchard"
+# Path for the NOTICE file on the Lab domain
+notice_design_orchard_path = "/mnt/data/DrMarchandsLaboratory.com/NOTICE"
 
 # Updated NOTICE text
 notice_design_orchard_text = """NOTICE
 ------
 
-🌴 Design Orchard LLC
+🌴 **Design Orchard LLC**
 
-This repository is maintained under the sovereign entity Design Orchard LLC,
-in collaboration with:
+This repository and all associated projects are maintained under the sovereign entity **Design Orchard LLC**, and publicly hosted via:
 
-- 🔬 Dr. Marchand’s ⚛︎ Laboratory™ (Experimental R&D & core cognition systems)
-- KEJ-Studio (Creative production & distribution arm)
-- The Creative Guild (Open-source collective identity, LICENSE_DRY.php)
+- 🔬 **DrMarchand’s Lab⚛︎ratory™**  
+  Experimental R&D, core cognition systems, and creative infrastructure.  
+  Website: [https://DrMarchandsLaboratory.com](https://DrMarchandsLaboratory.com)
 
-Website: http://drmarchandslab.com
+- **KEJ-Studio**  
+  Creative production, design, and distribution arm.
 
-⚙️ NƐURO-FORGE ENGINE™ powers outputs and pipelines associated with this project.
+- **The Creative Guild**  
+  Open-source collective identity and collaboration framework (see LICENSE_DRY.php).
 
-🔑 Licensing:
-All software and creative work is released under the Unlicense,
-placing it into the public domain for universal use. See LICENSE for full details.
+⚙️ **NƐURO-FORGE ENGINE™** powers outputs and pipelines associated with this project.
 
-Version: 2025 – Orchard & Lab integration
+🔑 **Licensing:**  
+All software and creative work are released under the **Unlicense**, placing them into the public domain for universal use. See LICENSE for full details.
+
+**Version:** 2025 – Orchard & Lab Integration
 """
 
 # Write the NOTICE file
