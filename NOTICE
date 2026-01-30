@@ -1,35 +1,13 @@
-# Path for the NOTICE file on the Lab domain
-notice_design_orchard_path = "/mnt/data/DrMarchandsLaboratory.com/NOTICE"
+NOTICE
 
-# Updated NOTICE text
-notice_design_orchard_text = """NOTICE
-------
+Design Orchard Open Framework
+Copyright © 2026 Design Orchard LLC
 
-🌴 **Design Orchard LLC**
+This project was authored and is maintained by Design Orchard LLC.
 
-This repository and all associated projects are maintained under the sovereign entity **Design Orchard LLC**, and publicly hosted via:
+Portions of this software and associated framework represent original
+design systems, methodologies, and implementation patterns developed
+by Design Orchard LLC.
 
-- 🔬 **DrMarchand’s Lab⚛︎ratory™**  
-  Experimental R&D, core cognition systems, and creative infrastructure.  
-  Website: [https://DrMarchandsLaboratory.com](https://DrMarchandsLaboratory.com)
-
-- **KEJ-Studio**  
-  Creative production, design, and distribution arm.
-
-- **The Creative Guild**  
-  Open-source collective identity and collaboration framework (see LICENSE_DRY.php).
-
-⚙️ **NƐURO-FORGE ENGINE™** powers outputs and pipelines associated with this project.
-
-🔑 **Licensing:**  
-All software and creative work are released under the **Unlicense**, placing them into the public domain for universal use. See LICENSE for full details.
-
-**Version:** 2025 – Orchard & Lab Integration
-"""
-
-# Write the NOTICE file
-with open(notice_design_orchard_path, "w") as f:
-    f.write(notice_design_orchard_text)
-
-# Confirm path
-notice_design_orchard_path
+This NOTICE file is required to be included with all redistributions
+of this software under the terms of the Apache License, Version 2.0.
