@@ -17,28 +17,39 @@ A repository slug may use an ASCII-safe technical form when GitHub or tooling co
 - 🔬 DrMarchand’s Lab⚛︎ratory™
 - 📚 DrMarchand’s ⚛︎ Library™
 - DrMarchand’s ⚙︎ Nɛuro-Forge Engine™
-- DrMarchand’s ♾️ OS™ — INFINITY
-- DrMarchand’s ∞ OS™ — INFINITE
+- DrMarchand’s OS™ — parent operating-system identity
+- DrMarchand’s ♾️ OS™ — INFINITY component
+- DrMarchand’s ∞ OS™ — INFINITE component
 - DrMarchand’s ⚛︎ Atlas
 - 🪬 Big Brother
 
-## Infinity versus Infinite identity law
+## DrMarchand’s OS™ hierarchy law
 
-DrMarchand’s ♾️ OS™ and DrMarchand’s ∞ OS™ are separate canonical identities.
+DrMarchand’s OS™ is the parent operating-system identity.
+
+```text
+DrMarchand’s OS™
+├── DrMarchand’s ♾️ OS™ — INFINITY
+└── DrMarchand’s ∞ OS™ — INFINITE
+```
+
+DrMarchand’s ♾️ OS™ and DrMarchand’s ∞ OS™ are separate canonical components of DrMarchand’s OS™.
 
 - `♾️` maps to **INFINITY**.
 - `∞` maps to **INFINITE**.
-- The symbols, names, responsibilities, repositories, paths, and technical slugs must not be silently interchanged.
-- Any technical identifier such as `DrMarchand-OS`, `infinity-os`, or `infinite-os` must be explicitly mapped to exactly one of these identities before it is treated as governed infrastructure.
+- Neither component may be represented as the complete parent operating system by itself.
+- The components must not be treated as spelling or symbol variants of one another.
+- Parent-child relationships must be registered explicitly in Atlas and in the GitHub repository registry.
+- A technical repository may represent the parent, one component, or a shared implementation surface, but that mapping must be declared rather than inferred.
 
 ## Prohibited drift
 
 - `DrMarchand’s Infinity OS™` used in place of the exact canonical identity `DrMarchand’s ♾️ OS™`
 - `DrMarchand’s Infinite OS™` used in place of the exact canonical identity `DrMarchand’s ∞ OS™`
-- `DrMarchand OS™`
+- treating `DrMarchand’s OS™`, `DrMarchand’s ♾️ OS™`, and `DrMarchand’s ∞ OS™` as interchangeable names
+- treating either component as the entire parent identity without an explicit scoped context
 - `♾️ DrMarchand’s ♾️ OS™`
 - `∞ DrMarchand’s ∞ OS™`
-- treating DrMarchand’s ♾️ OS™ and DrMarchand’s ∞ OS™ as spelling or symbol variants of one object
 - `☸︎ DrMarchand’s Nɛuro-Forge Engine™`
 - `⚙︎ DrMarchand’s Nɛuro-Forge Engine™`
 - `DrMarchand’s Nɛuro-Forge Engine™` when the locked external identity is required
@@ -55,7 +66,8 @@ DrMarchand’s ♾️ OS™ and DrMarchand’s ∞ OS™ are separate canonical 
 6. Renames, transfers, archives, and visibility changes require migration impact review, redirect validation, and rollback planning.
 7. Historical filenames may remain unchanged when renaming would damage references, but their status must be documented and their content must use canonical display identities.
 8. Symbols are semantic identifiers, not decoration. Symbol substitutions require authority review.
-9. `Infinity` and `Infinite` technical slugs must never be inferred from `OS` alone; the mapping must be explicit.
+9. `DrMarchand-OS`, `infinity-os`, `infinite-os`, and similar slugs must declare whether they map to the parent, the INFINITY component, the INFINITE component, or a shared implementation surface.
+10. A shared implementation repository must not erase the separate canonical identities or their parent-child relationships.
 
 ## Required repository metadata
 
@@ -65,6 +77,8 @@ Every governed repository must define:
 - full name
 - technical slug
 - canonical entity mapping
+- parent identity
+- component relationship
 - purpose
 - owner account or organization
 - authority role
@@ -96,7 +110,8 @@ Every governed repository must define:
 - Repository full name is registered.
 - Repository description uses the approved display identity.
 - README title uses the approved display identity.
-- Infinity versus Infinite mapping is explicit where either OS identity is referenced.
+- Parent versus component mapping is explicit.
+- INFINITY versus INFINITE mapping is explicit.
 - Paths do not create an unregistered competing identity.
 - Package names and namespaces are mapped.
 - GitHub topics are aligned.
