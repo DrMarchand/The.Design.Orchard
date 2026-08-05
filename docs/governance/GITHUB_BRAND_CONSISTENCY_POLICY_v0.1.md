@@ -17,15 +17,28 @@ A repository slug may use an ASCII-safe technical form when GitHub or tooling co
 - 🔬 DrMarchand’s Lab⚛︎ratory™
 - 📚 DrMarchand’s ⚛︎ Library™
 - DrMarchand’s ⚙︎ Nɛuro-Forge Engine™
-- DrMarchand’s ∞ OS™
+- DrMarchand’s ♾️ OS™ — INFINITY
+- DrMarchand’s ∞ OS™ — INFINITE
 - DrMarchand’s ⚛︎ Atlas
 - 🪬 Big Brother
 
+## Infinity versus Infinite identity law
+
+DrMarchand’s ♾️ OS™ and DrMarchand’s ∞ OS™ are separate canonical identities.
+
+- `♾️` maps to **INFINITY**.
+- `∞` maps to **INFINITE**.
+- The symbols, names, responsibilities, repositories, paths, and technical slugs must not be silently interchanged.
+- Any technical identifier such as `DrMarchand-OS`, `infinity-os`, or `infinite-os` must be explicitly mapped to exactly one of these identities before it is treated as governed infrastructure.
+
 ## Prohibited drift
 
-- `DrMarchand’s Infinity OS™` used as a display identity
-- `DrMarchand OS™` used as a display identity
+- `DrMarchand’s Infinity OS™` used in place of the exact canonical identity `DrMarchand’s ♾️ OS™`
+- `DrMarchand’s Infinite OS™` used in place of the exact canonical identity `DrMarchand’s ∞ OS™`
+- `DrMarchand OS™`
+- `♾️ DrMarchand’s ♾️ OS™`
 - `∞ DrMarchand’s ∞ OS™`
+- treating DrMarchand’s ♾️ OS™ and DrMarchand’s ∞ OS™ as spelling or symbol variants of one object
 - `☸︎ DrMarchand’s Nɛuro-Forge Engine™`
 - `⚙︎ DrMarchand’s Nɛuro-Forge Engine™`
 - `DrMarchand’s Nɛuro-Forge Engine™` when the locked external identity is required
@@ -42,6 +55,7 @@ A repository slug may use an ASCII-safe technical form when GitHub or tooling co
 6. Renames, transfers, archives, and visibility changes require migration impact review, redirect validation, and rollback planning.
 7. Historical filenames may remain unchanged when renaming would damage references, but their status must be documented and their content must use canonical display identities.
 8. Symbols are semantic identifiers, not decoration. Symbol substitutions require authority review.
+9. `Infinity` and `Infinite` technical slugs must never be inferred from `OS` alone; the mapping must be explicit.
 
 ## Required repository metadata
 
@@ -82,6 +96,7 @@ Every governed repository must define:
 - Repository full name is registered.
 - Repository description uses the approved display identity.
 - README title uses the approved display identity.
+- Infinity versus Infinite mapping is explicit where either OS identity is referenced.
 - Paths do not create an unregistered competing identity.
 - Package names and namespaces are mapped.
 - GitHub topics are aligned.
