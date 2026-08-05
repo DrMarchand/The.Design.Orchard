@@ -20,6 +20,8 @@ A repository slug may use an ASCII-safe technical form when GitHub or tooling co
 - DrMarchand’s ⚙︎ Nɛuro-Forge Engine™
 - DrMarchand’s OS™ — parent operating-system identity
 - DrMarchand’s 🗺️ OS™ — core operating-system layer that holds Atlas
+- DrMarchand’s ⚛️ OS™ — proposed atomic holding layer for the FINITE core
+- DrMarchand’s 00 OS™ — FINITE core
 - DrMarchand’s 🔬 OS™ — Laboratory link component
 - DrMarchand’s 📚 OS™ — Library link component
 - DrMarchand’s 🏝️ OS™ — ecosystem link component
@@ -37,6 +39,8 @@ DrMarchand’s OS™ is the parent operating-system identity.
 DrMarchand’s OS™
 ├── DrMarchand’s 🗺️ OS™ — core
 │   └── holds DrMarchand’s ⚛︎ Atlas
+├── DrMarchand’s ⚛️ OS™ — proposed holding layer
+│   └── holds DrMarchand’s 00 OS™ — FINITE core
 ├── DrMarchand’s 🔬 OS™
 │   └── links to 🔬 DrMarchand’s Lab⚛︎ratory™
 ├── DrMarchand’s 📚 OS™
@@ -58,6 +62,24 @@ DrMarchand’s 🗺️ OS™ is the core operating-system layer that holds and s
 - Atlas resolves canonical identity, scope, relationships, dependencies, classifications, and state.
 - Atlas does not inherit execution authority from its containment within the core.
 - DrMarchand’s ⚙︎ Nɛuro-Forge Engine™ remains the execution authority.
+
+### FINITE core proposal
+
+DrMarchand’s 00 OS™ is the FINITE core.
+
+The current proposed containment model is:
+
+```text
+DrMarchand’s ⚛️ OS™
+└── holds DrMarchand’s 00 OS™ — FINITE
+```
+
+- DrMarchand’s 00 OS™ and DrMarchand’s ⚛️ OS™ remain separate identities.
+- `00` maps to **FINITE**.
+- DrMarchand’s ⚛️ OS™ is presently classified as the proposed holding layer for the FINITE core.
+- The exact responsibility of DrMarchand’s ⚛️ OS™ beyond containment remains unresolved and must be established from implementation evidence.
+- The symbol distinction between `⚛️` and `⚛︎` must be preserved. DrMarchand’s ⚛️ OS™ must not be silently collapsed into DrMarchand’s ⚛︎ Atlas or 📚 DrMarchand’s ⚛︎ Library™.
+- This relationship remains PROPOSED until confirmed by the human authority and registered in Atlas.
 
 ### Link components
 
@@ -82,6 +104,9 @@ DrMarchand’s ♾️ OS™ and DrMarchand’s ∞ OS™ are separate canonical 
 ## Prohibited drift
 
 - treating DrMarchand’s 🗺️ OS™ and DrMarchand’s ⚛︎ Atlas as the same object
+- treating DrMarchand’s ⚛️ OS™ and DrMarchand’s 00 OS™ as the same object
+- treating `00`, `∞`, and `♾️` as interchangeable symbols or states
+- treating DrMarchand’s ⚛️ OS™, DrMarchand’s ⚛︎ Atlas, and 📚 DrMarchand’s ⚛︎ Library™ as the same identity
 - treating an OS link component and its linked institution, ecosystem, environment, or brand identity as the same object
 - treating `links_to`, `contains`, `holds`, `belongs_to`, and `executes_for` as interchangeable relationships
 - assigning Laboratory authority to DrMarchand’s 🔬 OS™ merely because it links to the Laboratory
@@ -106,7 +131,7 @@ DrMarchand’s ♾️ OS™ and DrMarchand’s ∞ OS™ are separate canonical 
 6. Renames, transfers, archives, and visibility changes require migration-impact review, redirect validation, and rollback planning.
 7. Historical filenames may remain unchanged when renaming would damage references, but their status must be documented and their content must use canonical display identities.
 8. Symbols are semantic identifiers, not decoration. Symbol substitutions require authority review.
-9. Technical slugs must declare whether they map to the parent, the core, Atlas, a link component, INFINITY, INFINITE, or a shared implementation surface.
+9. Technical slugs must declare whether they map to the parent, the map core, the atomic holding layer, the FINITE core, Atlas, a link component, INFINITY, INFINITE, or a shared implementation surface.
 10. Shared implementation repositories must not erase separate canonical identities, containment relationships, link relationships, or authority boundaries.
 
 ## Required repository metadata
@@ -150,6 +175,7 @@ Every governed repository must define:
 ## Classification values
 
 - CORE
+- HOLDING_LAYER
 - LINK_COMPONENT
 - SUPPORTING
 - WEBSITE
@@ -169,11 +195,14 @@ Every governed repository must define:
 - README title uses the approved display identity.
 - Parent, core, containment, component, and link mappings are explicit.
 - Atlas is mapped as held within DrMarchand’s 🗺️ OS™ without execution-authority drift.
+- DrMarchand’s 00 OS™ is mapped as the FINITE core.
+- The proposed DrMarchand’s ⚛️ OS™ holding relationship is explicitly labeled PROPOSED until confirmed.
+- `⚛️` and `⚛︎` symbol forms are not silently normalized.
 - Each OS link component has one registered relationship target and relationship class.
 - The linked identity remains distinct from the OS component.
 - Ecosystem and environment scopes remain distinct.
 - 🏝️ Design Orchard℠ and 🌴 Design Orchard™ remain distinct.
-- INFINITY versus INFINITE mapping is explicit.
+- FINITE, INFINITY, and INFINITE mappings are explicit.
 - Paths do not create an unregistered competing identity.
 - Package names and namespaces are mapped.
 - GitHub topics and workflow names are aligned.
