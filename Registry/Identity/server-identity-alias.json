@@ -1,17 +1,14 @@
 {
+  "record_status": "public template; operational aliases and paths removed",
+  "legal_authority": "Design Orchard LLC",
+  "author": "Joseph Kyle Marchand",
+  "default_copyright_owner": "Joseph Kyle Marchand",
   "authorityRoot": "Design Orchard LLC",
-  "systemUser": "gobfnqsky763",
-  "operatorIdentity": "DrMarchand",
-  "displayIdentity": "DrMarchand",
-  "homePath": "/home/gobfnqsky763",
-  "identityRule": "The Linux/cPanel system user remains gobfnqsky763 for filesystem compatibility. DrMarchand is the operating, dashboard, registry, and public display identity.",
+  "systemUser": "",
+  "operatorIdentity": "Joseph Kyle Marchand",
+  "displayIdentity": "Design Orchard LLC",
+  "homePath": "",
+  "identityRule": "Resolve host-specific aliases from private runtime configuration.",
   "doNotRenameWithoutHostSupport": true,
-  "safeReplacementPolicy": {
-    "replaceInPublicDisplay": true,
-    "replaceInDashboardLabels": true,
-    "replaceInReportsAsDisplayIdentity": true,
-    "replaceInFilesystemPaths": false,
-    "replaceInShellUsernames": false,
-    "replaceInOwnershipCommands": false
-  }
+  "safeReplacementPolicy": "Change host aliases only through a validated private runtime record."
 }
