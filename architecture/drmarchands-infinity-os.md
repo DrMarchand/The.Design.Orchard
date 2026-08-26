@@ -1,91 +1,46 @@
-# DrMarchand’s ∞ OS™ — Foundation Mirror
+# DrMarchand’s ∞ OS — Public Architecture Reference
 
-**Effective Date:** 2026-06-20  
-**Owning Authority:** Design Orchard LLC  
-**Mirror State:** Synced  
-**Mirror Type:** Public-safe architecture reference
+**Legal authority:** Design Orchard LLC  
+**Status:** Working public reference  
+**Naming review:** Public mark claims paused as of August 26, 2026
 
 ## Purpose
 
-DrMarchand’s ∞ OS™ is a living operating architecture owned by Design Orchard LLC.
+DrMarchand’s ∞ OS is the working presentation, navigation, routing, and lifecycle framework for the Design Orchard ecosystem. It does not own the company, execute work, or replace the authorized-human decision gate.
 
-The objective of the system is not merely to complete isolated tasks. The objective is to strengthen, document, reconcile, and evolve the operating system across connected platforms while preserving traceability.
-
-## Canonical Ownership Hierarchy
+## Boundary map
 
 ```text
-Design Orchard LLC
-|
-|-- Design Orchard℠
-|-- DrMarchand’s Lab⚛︎ratory™
-|   |
-|   |-- DrMarchand’s ⚛︎ Library™
-|   |-- DrMarchand’s ∞ OS™
-|       |
-|       |-- Nɛuro-Forge Engine™
-|       |-- DrMarchand’s ∞ OS™ ⚛︎ Phoenix
-|       |-- DrMarchand’s ∞ OS™ ⚛︎ Lionheart
-|       |-- Big Brother
-|
-|-- KEJ Studio™
-    |
-    |-- Creative Canvas
+Design Orchard LLC / authorized human
+        ↓
+DrMarchand’s Laboratory
+        ↓
+private execution and validation systems
+        ↓
+registered relationship and truth-state records
+        ↓
+DrMarchand’s ∞ OS presentation
+        ↓
+approved record custody
 ```
 
-## Platform Layer Responsibilities
+KEJ Studio is the Florida creative DBA/division owned and operated by Design Orchard LLC. DrMarchand’s Laboratory is the technical DBA and working environment. The two lanes remain distinct and coordinate through explicit company authority and work-specific records.
 
-| Layer | Platform | Responsibility |
-|---|---|---|
-| Registry Layer | Google Sheets | Connector maps, registries, relationships, entity IDs |
-| Canon Layer | Google Drive | Architecture records, governance, documentation, journal references, canonical decisions |
-| Mirror Layer | GitHub | Public-safe architecture mirrors, changelogs, system definitions, historical evolution |
-| Execution Layer | Asana | Tasks, projects, ownership, milestones, reviews, status tracking |
-| Structure Layer | OneDrive | Long-term organization, structured storage, operational file hierarchy |
-| Operations Layer | Dropbox | Intake, automation lanes, operational transfer, mailbox functions |
-| Creation Layer | iCloud | Mobile creation, Apple workflows, capture, continuity |
+## Public-safe rule
 
-## Core Synchronization Principle
+- Use unmarked names while clearance is pending.
+- Keep private system names and implementation details out of active public product copy.
+- Preserve repository names, commands, routes, schemas, database identifiers, and file paths as compatibility identifiers.
+- Preserve historical evidence and label it historical or superseded.
+- Support runtime and deployment claims with evidence tied to an exact version and environment.
 
-Every meaningful change must satisfy one of the following:
-
-1. Reflected
-2. Explained
-
-If one system changes and another does not, a documented explanation must exist.
-
-**No silent drift is permitted.**
-
-## Allowed Object Mirror States
+## Mirror states
 
 - Synced
 - Pending
 - Drifted
 - Blocked
 - Intentionally Unmirrored
+- Needs Clarification
 
-## Operating Roles
-
-| Role | Responsibility |
-|---|---|
-| Phoenix | Detect change, diagnose connector state, classify failures, select recovery path |
-| Lionheart | Verify state, validate synchronization, confirm integrity |
-| Big Brother | Observe, report, monitor drift |
-| Nɛuro-Forge Engine™ | Reconcile, synthesize, produce outputs, transform information into action |
-
-## Guiding Rule
-
-When making decisions:
-
-1. Preserve the Registry.
-2. Protect the Canon.
-3. Update the Mirror.
-4. Advance Execution.
-5. Maintain Structure.
-6. Support Operations.
-7. Enable Creation.
-
-If uncertainty exists, choose the action that improves alignment between systems while preserving traceability and documentation.
-
-## Public-Safe Boundary
-
-This file is a public-safe mirror. It is not the canonical registry and must not contain private credentials, tax IDs, client records, internal-only links, or sensitive operational details.
+This public reference describes the current boundary. It is not a trademark registration record, runtime receipt, or release approval.
