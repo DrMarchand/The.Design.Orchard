@@ -1,67 +1,55 @@
 # Business Structure
 
-Design Orchard LLC is the legal root of the ecosystem. It owns the company assets, domains, records, intellectual property, contracts, and operating structure.
+Design Orchard LLC is the Florida legal root of the ecosystem. It owns and operates the company structure, assets, domains, contracts, and business records.
 
 ## Core model
 
 ```text
 Design Orchard LLC
-  owns and supports the full ecosystem
-
-Design Orchard
-  public company brand and ecosystem identity
-
-Design Orchard service island
-  service environment for company information, clients, assets, marks, copyrights, contracts, and records
-
-DrMarchand's Laboratory
-  research, development, software, technical infrastructure
+  legal and operating company
 
 KEJ Studio
-  creative services, design, branding, media production
+  Florida creative DBA/division owned and operated by Design Orchard LLC
+
+DrMarchand’s Laboratory
+  technical DBA for research, development, software, and infrastructure
 ```
 
-## Operating principle
-
-The parent company exists to support the divisions, not compete with them.
+Public display names are currently unmarked while trademark clearance and filing strategy are reviewed.
 
 ## Division responsibilities
 
-### DrMarchand's Laboratory
-
-Research, development, and software division.
-
-Responsible for:
-
-- Software development
-- Research and experimentation
-- Technical infrastructure
-- Websites and technical platforms
-- Open-source planning and validation
-- NFE and related applications
-
 ### KEJ Studio
 
-Creative services division.
+KEJ Studio is the creative-production and distribution division of Design Orchard LLC. Its work may include:
 
-Responsible for:
+- branding and graphic design;
+- creative direction;
+- media production;
+- visual identity systems;
+- client creative work;
+- published creative assets documented through work-specific records.
 
-- Branding
-- Graphic design
-- Creative direction
-- Media production
-- Visual identity systems
-- Client creative work
-- Published creative assets through KEJ Studio productions
+### DrMarchand’s Laboratory
+
+DrMarchand’s Laboratory is the research, development, software, and technical-infrastructure lane. Its work may include:
+
+- software development;
+- research and experimentation;
+- technical infrastructure;
+- websites and technical platforms;
+- open-source planning and validation;
+- internal execution systems and related applications.
+
+Internal names such as `NFE` may remain in repository, command, database, or file identifiers for compatibility. They are not public brand aliases.
 
 ## Shared responsibilities
 
-Design Orchard LLC maintains the shared structure:
+Design Orchard LLC maintains the shared business structure, including:
 
-- Asset ownership records
-- Domain map
-- Contract records
-- Client/customer records
-- Internal documentation
-- Financial separation and expense allocation
-- Publication pipeline
+- asset and domain records;
+- contracts and customer records;
+- internal documentation;
+- financial separation and expense allocation;
+- publication and release controls.
+
