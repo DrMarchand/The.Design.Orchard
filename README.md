@@ -1,100 +1,45 @@
-<div align="center">
-
-# 🏝️ Design Orchard℠
-
-### Creative Technology • Design • Publishing
-
-**Design; From the Ground, Up.**
+# Design Orchard LLC
 
 Design Orchard LLC is the legal and operating company behind the Design Orchard ecosystem.
 
-</div>
+**Focus:** creative technology, design, publishing, software, research, and practical systems work.
+
+## Operating areas
+
+- **DrMarchand’s Laboratory** — research, software, technical development, experimentation, and implementation.
+- **DrMarchand’s Library** — preservation, records, curation, and publication support.
+- **KEJ Studio** — creative production, design, media, and distribution.
+
+These areas may work together without becoming the same operational space.
+
+## Internal systems
+
+The Laboratory maintains internal systems used to organize, build, test, validate, route, and automate technical work. Internal machinery is not presented as a customer-facing product merely because it contributes to useful work.
+
+Third-party tools, including AI tools where appropriate, may be used during research or development. Their use does not redefine the identity of an internal system.
+
+## Public scope
+
+This repository is a public company-level documentation surface. Public material should describe what exists, what is being developed, and what has been intentionally released without overstating capability or exposing unnecessary internal implementation details.
+
+Public visibility does not by itself establish ownership, licensing, completion, or commercial availability.
+
+## Naming rule
+
+Until further notice, `™` and `℠` are reserved only for functional folder names.
+
+Public prose, repository documentation, website copy, titles, descriptions, and ordinary system references should use the unmarked name.
+
+When a marked folder and an otherwise identical unmarked folder exist, they represent the same functional namespace. The unmarked folder is the preferred compacted home once object identity, contents, permissions, and references have been safely reconciled.
+
+Repository names, domains, database names, paths, API routes, and other machine identifiers may retain compatibility spellings and must not be renamed merely to match prose.
+
+## Working principle
+
+Build first. Prove what works. Describe it plainly. Let stronger claims follow evidence rather than lead it.
 
 ---
 
-## Identity
-
-| Layer | Canonical identity | Role |
-|---|---|---|
-| Legal entity | **Design Orchard LLC** | Ownership, contracts, business authority, accounting, and governance |
-| Service brand | **🏝️ Design Orchard℠** | Company-facing service identity |
-| Brand | **🔬 DrMarchand’s Lab⚛︎ratory™** | Research, software, technical development, and implementation |
-| Brand | **📚 DrMarchand’s ⚛︎ Library™** | Preservation, records, curation, and publication support |
-| Brand | **KEJ Studio™** | Creative production, design, media, and distribution |
-
-## Service Rule
-
-A trade supplied to another party is a **service performed**.
-
-This distinction is used throughout the ecosystem:
-
-```text
-internal capability / trade
-        ↓ supplied externally
-performed service
-        ↓ governed by
-appropriate Design Orchard brand
-```
-
-The name of every trade, workflow, tool, component, or service does **not** automatically receive `™` or `℠` notation. Marks are reserved for deliberately governed brand identities and separately approved branded products or services.
-
-## Internal Systems Boundary
-
-**⚙︎ Nɛuro-Forge Engine™** is an internal system of 🔬 DrMarchand’s Lab⚛︎ratory™.
-
-It may perform internal trades, automation, validation, build, routing, and implementation work. When an approved output or trade is supplied externally, the customer-facing activity is a service delivered through the appropriate company brand. The Engine itself is not the public service provider or a public checkout surface.
-
-## What Design Orchard Does
-
-Design Orchard LLC may provide or organize services including:
-
-- graphic and visual design;
-- digital and print media;
-- web and software development;
-- application development;
-- documentation and publishing support;
-- workflow and systems design;
-- research and development;
-- creative technology implementation.
-
-Specific services route through the brand best suited to perform and represent that work.
-
-## Repository Purpose
-
-This repository is the public company-level documentation and governance surface for Design Orchard LLC and 🏝️ Design Orchard℠.
-
-Public repositories should contain only material intentionally approved for public release. Internal implementation details, credentials, private infrastructure, client-confidential information, and restricted operational records remain outside public surfaces.
-
-## Naming Policy
-
-Use marks selectively:
-
-```text
-Design Orchard LLC            legal entity
-🏝️ Design Orchard℠            service brand
-🔬 DrMarchand’s Lab⚛︎ratory™   brand
-📚 DrMarchand’s ⚛︎ Library™    brand
-KEJ Studio™                    brand
-```
-
-Operational names such as Workbench, Toolbox, Canvas, Blueprint, Bookshelf, Vault, APIs, scripts, folders, repositories, commands, and machine identifiers remain unmarked unless separately elevated and governed as a brand.
-
-## Operating Boundary
-
-Design Orchard LLC does not represent ordinary software, design, documentation, or technical work as licensed professional services where a professional license is legally required. Scope, contracts, and applicable law control any specific engagement.
-
-## Licensing and Rights
-
-Software, documentation, creative works, internal frameworks, and operational materials remain governed by their applicable copyright, license, contract, and work-specific rights records.
-
-A repository being public does not by itself waive copyright, create a license, establish publication authority, or convert an internal system into a public service.
-
----
-
-<div align="center">
-
-🌱 **Design; From the Ground, Up.**
+**Design; From the Ground, Up.**
 
 Design Orchard LLC
-
-</div>
